@@ -1,11 +1,7 @@
-
-
-<p align = "center" draggable=”false” ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png" 
+<p align = "center" draggable=”false” ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png"
      width="200px"
      height="auto"/>
 </p>
-
-
 
 # <h1 align="center" id="heading">FastAPI for Machine Learning Live Demo</h1>
 
@@ -22,6 +18,6 @@ This repository contains the files to build your very own AI image generation we
 Given several challenges I faced while following this demo (e.g., insufficient GPU), I modified a couple of things in the Python scripts to make this work. You'll find the respective comments in the scripts.
 
 <p style="line-height:0.5" align="center">
-	<img src="image.png" />
+     <img src="image.png" />
 </p>
 <p style="line-height:0.5" align="center"><b>Figure 1.</b> This is my resulting image.</p>
