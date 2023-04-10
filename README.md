@@ -16,3 +16,12 @@ This repository contains the files to build your very own AI image generation we
 ![Screenshot 2022-12-15 at 11 34 39 AM](https://user-images.githubusercontent.com/37101144/207929696-886ccfe3-6d86-4674-8aca-0844fb795727.png)
 
 ![Screenshot 2022-12-15 at 11 35 51 AM](https://user-images.githubusercontent.com/37101144/207929748-afafc036-cbf6-48aa-a7b2-b64d66c32b75.png)
+
+# <h2>FastAPI for Machine Learning Live Demo</h2>
+
+Given several challenges I faced while following this demo (e.g., insufficient GPU), I modified a couple of things in the Python scripts to make this work.
+
+<p style="line-height:0.5" align="center">
+	<img src="image.png" />
+</p>
+<p style="line-height:0.5" align="center"><b>Figure 1.</b> This is my resulting image.</p>
